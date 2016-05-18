@@ -1,0 +1,2 @@
+# Placement-and-Higher-Study-Android-Application-
+It is an android application that can be used in the college to get the placement details of the college. Students and teachers both can get the placement history of their college and also the details of the students gone for higher studies. Student can feed their details of placement or higher studies using the application, the details provided by the students firstly need to verified by the responsible person, He/She can do the verification using the app itself.
